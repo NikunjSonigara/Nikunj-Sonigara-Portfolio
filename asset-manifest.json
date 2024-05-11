@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nikunj-Sonigara-Portfolio/static/css/main.f92bc1ff.css",
+    "main.js": "/Nikunj-Sonigara-Portfolio/static/js/main.dbe942eb.js",
+    "static/media/4.png": "/Nikunj-Sonigara-Portfolio/static/media/4.b54b13bc50e8fcfe1d38.png",
+    "static/media/1.png": "/Nikunj-Sonigara-Portfolio/static/media/1.00cd5a3c731c5c2cbf6d.png",
+    "static/media/5.png": "/Nikunj-Sonigara-Portfolio/static/media/5.6462c5408440e238cd98.png",
+    "static/media/3.png": "/Nikunj-Sonigara-Portfolio/static/media/3.ae1331a55e2510b38923.png",
+    "static/media/2.png": "/Nikunj-Sonigara-Portfolio/static/media/2.7e74650c7fd2b64cbb77.png",
+    "static/media/NikunjResume84.pdf": "/Nikunj-Sonigara-Portfolio/static/media/NikunjResume84.ba491fe472b933817e65.pdf",
+    "static/media/Nikunj.jpeg": "/Nikunj-Sonigara-Portfolio/static/media/Nikunj.96d6f695a2cd3ca98d30.jpeg",
+    "static/media/Nikunj2.jpg": "/Nikunj-Sonigara-Portfolio/static/media/Nikunj2.0d0f65e346a5ed67d492.jpg",
+    "index.html": "/Nikunj-Sonigara-Portfolio/index.html",
+    "main.f92bc1ff.css.map": "/Nikunj-Sonigara-Portfolio/static/css/main.f92bc1ff.css.map",
+    "main.dbe942eb.js.map": "/Nikunj-Sonigara-Portfolio/static/js/main.dbe942eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92bc1ff.css",
+    "static/js/main.dbe942eb.js"
+  ]
+}
