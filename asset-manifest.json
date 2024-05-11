@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nikunj-Sonigara-Portfolio/static/css/main.f92bc1ff.css",
-    "main.js": "/Nikunj-Sonigara-Portfolio/static/js/main.dbe942eb.js",
+    "main.js": "/Nikunj-Sonigara-Portfolio/static/js/main.1cf7098f.js",
     "static/media/4.png": "/Nikunj-Sonigara-Portfolio/static/media/4.b54b13bc50e8fcfe1d38.png",
     "static/media/1.png": "/Nikunj-Sonigara-Portfolio/static/media/1.00cd5a3c731c5c2cbf6d.png",
     "static/media/5.png": "/Nikunj-Sonigara-Portfolio/static/media/5.6462c5408440e238cd98.png",
@@ -12,10 +12,10 @@
     "static/media/Nikunj2.jpg": "/Nikunj-Sonigara-Portfolio/static/media/Nikunj2.0d0f65e346a5ed67d492.jpg",
     "index.html": "/Nikunj-Sonigara-Portfolio/index.html",
     "main.f92bc1ff.css.map": "/Nikunj-Sonigara-Portfolio/static/css/main.f92bc1ff.css.map",
-    "main.dbe942eb.js.map": "/Nikunj-Sonigara-Portfolio/static/js/main.dbe942eb.js.map"
+    "main.1cf7098f.js.map": "/Nikunj-Sonigara-Portfolio/static/js/main.1cf7098f.js.map"
   },
   "entrypoints": [
     "static/css/main.f92bc1ff.css",
-    "static/js/main.dbe942eb.js"
+    "static/js/main.1cf7098f.js"
   ]
 }
